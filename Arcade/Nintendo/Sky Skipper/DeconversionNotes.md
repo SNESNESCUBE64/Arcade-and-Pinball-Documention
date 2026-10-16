@@ -73,3 +73,6 @@ Jumper J3 was set to open for Popeye. It should be set to **closed/on** for Sky 
 ### Populate Resistor at R25
 A 3.3k ohm resistor must be added to R25. It is unpopulated on Popeye converted PCB.
 
+### Repair Cut Traces
+The first one is near the letter 'K' in the silk screen near power plug P2 on the parts side of the PCB.
+![Trace Repair 1](Images/Deconversion/TIF_Trace_1.jpg)
