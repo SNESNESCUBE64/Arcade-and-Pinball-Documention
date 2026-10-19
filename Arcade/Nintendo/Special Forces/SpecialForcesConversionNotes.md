@@ -21,7 +21,7 @@ To install the daughter board, remove the Z80 CPU and 8035 MPU. The daughter boa
 | 82s126.2e    |        2E        |    82S126    |     1k x 4   |  B3751A25 |
 | 82s126.2f    |        2F        |    82S126    |     1k x 4   |  1026D438 |
 
-2N on special forces was an 82S126, however the schematics call for a MB7052 or 82S129. It seems like either might work.
+2E and 2F on special forces was an 82S126, however the schematics call for a MB7052 or 82S129. It seems like either might work.
 There is also an 82S153 PLD on the daughter board. MAME uses the PLD from another conversion kit game.
 
 ### CPU PCB Picture
